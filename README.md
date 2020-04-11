@@ -1,2 +1,3 @@
 # GAN
-Use GAN to generate MNIST images and  Anime images
+使用GAN生成手写数字图片和动漫人物头像图片，手写数字采用MNIST，动漫人物数据详见faces.zip，
+这里只提供部分数据集，全部数据及详见龙龙老师《TensorFlow深度学习》。
